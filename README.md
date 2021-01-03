@@ -1,9 +1,12 @@
 ![GMIT_Logo.png](GMIT-logo.png)
-# ProgDA_Project_20
-Project submission for Programming of Data Analytics module 2020
 
-# <div align="center"> Programming For Data Analytics <div> 
-## <div align="center"> Project 2020<div> 
+# ProgDA_Project_20
+
+## This repository contains the project submission for Programming of Data Analytics module 2020
+
+## Author: Shane Rylands
+
+### G00387904@gmit.ie
 
 ***
 
